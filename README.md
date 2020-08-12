@@ -1,6 +1,6 @@
 # default_cell
 
-This will install a Jupyter notebook extension that adds and runs template code in the first cell for any new notebook.
+This will install a Jupyter notebook extension that adds and runs template code in the first cell of any new notebook.
 
 To build and install the extension, run
 
