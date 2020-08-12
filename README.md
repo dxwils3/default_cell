@@ -17,3 +17,4 @@ The extension can be disabled in the Jupyter Notebook *Nbextensions* tab.
 
 Note: You will need to have nbextensions [installed and enabled](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html).
 
+This extension is adapted from the [extension](https://github.com/WillKoehrsen/jupyter-notebook-extensions) written by Will Koehrsen.
